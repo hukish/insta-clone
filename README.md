@@ -65,3 +65,7 @@ Like a picture and leave a comment on it.
 
 For more information, questions, or feedback, get in touch with me on - 
 email:hudsonhukish@gmail.com
+
+### Licence
+
+Copyright(c) 2020 HUDSON
