@@ -59,3 +59,9 @@ Like a picture and leave a comment on it.
 | posts                   | the users you follow                            |                                             |
 | Log out                 | On the profile page, click on the settings      | You will be logged out                      |
 |                         | button then select log out                      |                                             |
+
+
+### Support and Contact Details
+
+For more information, questions, or feedback, get in touch with me on - 
+email:hudsonhukish@gmail.com
