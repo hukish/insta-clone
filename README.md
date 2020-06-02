@@ -40,3 +40,16 @@ Like a picture and leave a comment on it.
 
 
 ### BDD SPECIFICATIONS
+
+
+|   User Requirements     |           Input                                 |           Output                            |
+|-------------------------|-------------------------------------------------|---------------------------------------------|
+| Sign up/Login           | To sign up, click on the sign up link and fill  | If login is successful, user is navigated to|
+|                         | in the form details. To log in, enter your      | the home page                               |
+|                         | username and password                           |                                             |
+| Comment on a post       | Click on the comment icon and add a comment     | The comment will be added to the post's     |
+|                         |                                                 | comment section                             |
+| Add a new post          | Click on the profile icon and the Upload Image  | The user will be navigated to a page where  |
+|                         | button                                          | he/she can upload a new post                |
+| Edit profile            | On the profile page, click on the Edit Profile  | Profile will be edited                      |
+|                         | button                                          |                |
