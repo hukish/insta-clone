@@ -53,3 +53,9 @@ Like a picture and leave a comment on it.
 |                         | button                                          | he/she can upload a new post                |
 | Edit profile            | On the profile page, click on the Edit Profile  | Profile will be edited                      |
 |                         | button                                          |                |
+| View all your posts     | Click on the profile icon and navigate to the   | All the user's posts will be displayed      |
+|                         | profile page                                    |                                             |
+| View other people's     | Navigate to the home page to view posts from    | All the posts will be displayed             |
+| posts                   | the users you follow                            |                                             |
+| Log out                 | On the profile page, click on the settings      | You will be logged out                      |
+|                         | button then select log out                      |                                             |
